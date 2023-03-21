@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nardos K.
-- 👀 I’m interested in developing softwares that ease the day to day life of individuals.
+- 👀 I’m interested in developing softwares that ease the day to day life of individuals and businesses.
 - 🌱 I’m currently learning new software development skills around web and desktop applications.
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me https://www.linkedin.com/in/nardosk
